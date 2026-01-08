@@ -28,13 +28,13 @@ graph TD
         UserAdmin[관리자]
         UserEmp[직원/사용자]
         
-        WA[Web Admin (React)]
-        AA[Android App (Kotlin)]
+        WA["Web Admin (React)"]
+        AA["Android App (Kotlin)"]
     end
 
     subgraph ServerSide ["서버 계층"]
-        API[Backend Server (Node.js/Express)]
-        DB[(Metadata DB - SQLite)]
+        API["Backend Server (Node.js/Express)"]
+        DB["Metadata DB - SQLite"]
         FS[File Storage]
     end
 
