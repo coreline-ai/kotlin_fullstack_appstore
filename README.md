@@ -6,7 +6,7 @@
 
 **Simple App Store**는 사내 또는 특정 그룹 내에서 안드로이드 애플리케이션(APK)을 쉽고 빠르게 배포하고 관리하기 위한 경량화된 앱 배포 플랫폼입니다. 복잡한 마켓 심사 없이 즉시 앱을 등록하고 내부 사용자에게 안전하게 전달합니다.
 
-<img width="844" height="461" alt="image" src="https://github.com/user-attachments/assets/d0a6e41c-d967-4aa7-9e7b-ecdff12da3a1" />
+<img width="1213" height="644" alt="image" src="https://github.com/user-attachments/assets/d55e496d-b005-48a5-b8d2-6393a89fa178" />
 
 ---
 
